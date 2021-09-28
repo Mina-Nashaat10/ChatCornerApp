@@ -1,6 +1,4 @@
 # ChatCornerApp
-
-# ChatCornerApp
 social media application allow users to connected with thier friends from any place.
 
 #1. Splash Screen
