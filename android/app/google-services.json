@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104124484601",
+    "project_id": "chat-corner-8cdbf",
+    "storage_bucket": "chat-corner-8cdbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104124484601:android:6a2202c9665a347e9c8b28",
+        "android_client_info": {
+          "package_name": "com.touchtec.chatcorner.chat_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104124484601-dabpf7e6hhdmggf1rntjdf79ieb4vgc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_n7JGSCO4edr6dKCvsU395izWsNttJ6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104124484601-dabpf7e6hhdmggf1rntjdf79ieb4vgc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
